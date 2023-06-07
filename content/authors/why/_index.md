@@ -25,7 +25,7 @@ organizations:
 bio: My research interests include Computer Graphics, Physically Based Simulation and Geometry Processing.
 
 # Interests to show in About widget
-interests:
+Research interests:
   - Computer Graphics
   - Physically Based Simulation
   - Geometry Processing
@@ -83,8 +83,8 @@ highlight_name: true
 
 I currently a Master student at Nanjing University, Nanjing, China. My research interests include Computer Graphics, Physically Based Simulation and Geometry Processing.
 
-I love art, science and their intersections. That's why I choose Computer Graphics, I believe this is the most fascinating part of computer science. I was also an art student and a liberal arts student in my middle school, high school and freshman year.
+I love art, science and their combinations. That's why I choose Computer Graphics, I believe this is the most fascinating part of computer science. I was also an art student and a liberal arts student in my middle school, high school and freshman year.
 
-In addition, I also like sports and interesting things such as comics and sculptures.
+In addition, I also like sports and other interesting things such as comics and sculptures.
 
 {style="text-align: justify;"}
