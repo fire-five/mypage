@@ -15,16 +15,15 @@ sections:
     content:
       title: Skills
       items:
-        - name: C & C++
+        - name: C; C++; Python; Taichi
           # description: 90%
           # icon: r-project
           # icon_pack: fab
-        - name: Python
-        - name: Vulkan, DirectX, OpenGL
+        - name: Vulkan; DirectX; OpenGL
           # description: 100%
           # icon: chart-line
           # icon_pack: fas
-        - name: Blender, Houdini, ZENO
+        - name: Blender; Houdini; ZENO
           # description: 10%
           # icon: camera-retro
           # icon_pack: fas
@@ -80,10 +79,10 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+        - name: Rendering 
+          tag: Rendering
+        # - name: Other
+        #   tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -126,7 +125,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
@@ -148,27 +147,27 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: nn9.yang@gmail.com
       phone: +86 13226008326
-      appointment_url: 'https://calendly.com'
+      # appointment_url: 'https://calendly.com'
       address:
-        street: None
+        # street: None
         city: Zhuhai
         region: GuangDong
         postcode: '519000'
         country: China
         country_code: CN
-      directions: None
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      # directions: None
+      # office_hours:
+      #   - 'Monday 10:00 to 13:00'
+      #   - 'Wednesday 09:00 to 10:00'
       contact_links:
-        - icon: skype
-          icon_pack: fab
-          name: Skype Me
-          link: 'skype:echo123?call'
-        - icon: video
-          icon_pack: fas
-          name: Zoom Me
-          link: 'https://zoom.com'
+        # - icon: skype
+        #   icon_pack: fab
+        #   name: Skype Me
+        #   link: 'skype:echo123?call'
+        # - icon: video
+        #   icon_pack: fas
+        #   name: Zoom Me
+        #   link: 'https://zoom.com'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
