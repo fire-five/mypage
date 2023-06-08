@@ -81,7 +81,7 @@ highlight_name: true
 ---
 
 
-I'm currently a Master student at Nanjing University, Nanjing, China. My research interests include Computer Graphics, Physically Based Simulation and Geometry Processing. I got my Bachelor's degree in computer science at SDU, and I was also an art student and a liberal arts student in my middle school, high school and freshman year.
+I'm currently a Master student at NJU. My research interests include Computer Graphics, Physically Based Simulation and Geometry Processing. I got my Bachelor's degree in computer science at SDU, and I was also an art student and a liberal arts student in my middle school, high school and freshman year.
 
 I love art, science and their combinations. That's why I choose Computer Graphics, I believe this is the most fascinating part of computer science. 
 
