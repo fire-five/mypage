@@ -67,11 +67,10 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/haoyang-wu-400959272/
   # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
+  # To use: copy your resume to `static/uploads/cv.pdf`, enable `ai` icons in `params.yaml`,
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
